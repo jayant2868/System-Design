@@ -1,0 +1,2 @@
+--  This is the initial commit made to the folder --
+-- Will contain all the design patterns --
